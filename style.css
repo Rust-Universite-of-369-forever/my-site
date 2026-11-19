@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 70%;
+    margin: auto;
+}
+
+main{
+    width: 70%;
+    margin: auto;
+}
+
+footer{
+    background-color: #333333;
+}
+
+.logo{
+    margin-top: 35px;
+}
+
+.suport{
+    font-weight: 400;
+    font-size: 14px;
+    color: #333333;
+}
+
+.mail{
+    font-size: 20px;
+    font-weight: 600;
+    color: #607CE6;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.consult{
+    font-weight: 400;
+    font-size: 14px;
+    color: #333333;
+}
+
+.number{
+    font-weight: 600;
+    font-size: 20px;
+    color:#607CE6;
+}
+
+.subsup{
+    margin-left: 260px;
+}
+
+.line img{
+    margin-top: 30px;
+}
+
+.nav{
+    font-size: 16px;
+    font-weight: 400;
+    color:#333333;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.navi{
+    font-size: 16px;
+    font-weight: 400;
+    color: #607CE6;
+    text-decoration: none;
+    margin-left: 52px;
+}
+
+.header_menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+
+
+.russian_factory h1{
+    font-weight: 700;
+    font-size: 60px;
+    color: #333333;
+
+}
+
+.desc_factory p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    margin-right: 130px;
+}
+
+.img_fac{
+    width: 1180;
+    height: 440;
+    margin-bottom: 80px;
+}
+
+.factory{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+
+.about_pred h1{
+    font-size: 48px;
+    font-weight: 700;
+    color:#333333;
+    margin-bottom: 32px;
+}
+
+.desc_one p{
+    font-weight: 400;
+    font-size: 16px;
+    color:#333333;
+    margin-bottom: 24px;
+}
+
+.desc_two p{
+    font-weight: 400;
+    font-size: 16px;
+    color:#333333;
+}
+
+.desc_three p{
+    display: flex;
+    font-weight: 400;
+    font-size: 16px;
+    color:#333333;
+    margin-bottom: 32px;
+}
+
+
+.one_two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.img_one{
+    margin-right: 20px;
+}
+
+.container_img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    padding: 56px 130px;
+    background: #333333; 
+}
+
+.footer_container {
+    display: flex;
+    align-items: flex-start; 
+}
+
+.content {
+    display: flex;
+    margin-left: 350px; 
+    gap: 80px; 
+}
+
+.contacts, .contacts_, .another {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts a, .contacts_ a, .another a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 24px; 
+    font-size: 16px;
+}
+
+.when {
+     width: 100%;          
+    display: flex;         
+    justify-content: center; 
+    align-items: center; 
+    
+    margin-top: 70px;     
+    margin-left: 0;      
+    
+    color: #FFFFFF;
+}
